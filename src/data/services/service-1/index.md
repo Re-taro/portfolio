@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Create Bot'
+title: 'Bot Develop'
 icon: 'laptop-code'
-description: 'Pythonを用いたDiscordやTwitterのBotを作成してます。詳しくは私のGitHubを御覧ください。'
+description: 'Pythonを用いたDiscordやTwitterのBotを作成しています。詳しくは私のGitHubを御覧ください。'
 ---

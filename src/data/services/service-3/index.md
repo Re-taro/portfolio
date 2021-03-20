@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Copywrite'
-icon: 'edit'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+title: 'Web Designer'
+icon: 'file-code'
+description: 'HTMLとCSSを用いてWebページを作成しています。TypeScriptやJavaScriptは習得中です。'
 ---
