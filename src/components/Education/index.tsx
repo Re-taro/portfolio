@@ -14,7 +14,6 @@ interface Education {
     html: React.ReactNode;
     frontmatter: {
       university: string;
-      degree: string;
       startDate: string;
       endDate: string;
     };
@@ -40,7 +39,6 @@ const Education: React.FC = () => {
             html
             frontmatter {
               university
-              degree
               startDate
               endDate
             }
@@ -61,14 +59,14 @@ const Education: React.FC = () => {
         const {
           id,
           html,
-          frontmatter: { university, degree, startDate, endDate }
+          frontmatter: { university, startDate, endDate }
         } = item.node;
 
         return (
           <Timeline
             key={id}
             title={university}
-            subtitle={degree}
+            subtitle=""
             content={<FormatHtml content={html} />}
             startDate={startDate}
             endDate={endDate}
