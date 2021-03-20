@@ -22,8 +22,12 @@ const Footer: React.FC = () => (
         >
           Twitter
         </Styled.Link>
-        <Styled.Link href="/" rel="noreferrer noopener" target="_blank">
-          Behance
+        <Styled.Link 
+          href="https:/www.instagram.com/10969_rintaro/" 
+          rel="noreferrer noopener" 
+          target="_blank"
+        >
+          Instagram
         </Styled.Link>
       </Styled.Links>
     </Container>
