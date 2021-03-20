@@ -29,6 +29,13 @@ const Footer: React.FC = () => (
         >
           Instagram
         </Styled.Link>
+        <Styled.Link
+          href="https://www.facebook.com/10969rintaro/"
+          rel="noreferrer noopener"
+          target="_blank"
+        >
+          Facebook
+        </Styled.Link>
       </Styled.Links>
     </Container>
   </Styled.Footer>
