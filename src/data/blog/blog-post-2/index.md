@@ -21,3 +21,6 @@ published: true
 ![Info about me](./aboutme-information.png)
 
 はい！スリーサイズまで公開してありますね~~理想的な~~体型ですね！去年の4月から鈴鹿高専に通ってます(寮生)。なかなか普通科では経験できないことを多く経験してるのではないかなと思います。今年の4月で17歳です！これは僕の[干し芋](https://www.amazon.jp/hz/wishlist/ls/1TOJJDJBN4BPW?ref_=wl_share)なのでぜひ誕生日に私に貢いでください...
+
+# Upbringing
+私の生い立ちについても少し触れましょう。
