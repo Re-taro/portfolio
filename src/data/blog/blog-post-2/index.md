@@ -19,3 +19,5 @@ published: true
 
 # Info about me
 ![Info about me](./aboutme-information.png)
+
+はい！スリーサイズまで公開してありますね~~理想的な~~体型ですね！去年の4月から鈴鹿高専に通ってます(寮生)。なかなか普通科では経験できないことを多く経験してるのではないかなと思ってます。
