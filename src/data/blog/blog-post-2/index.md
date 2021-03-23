@@ -3,7 +3,7 @@ category: 'blog'
 cover: './aboutme-profile.png'
 title: 'About me'
 description: '糸川倫太朗とは何か詳しく書きました'
-date: '2021-03-21'
+date: '2021-03-23'
 tags: ['About me']
 published: true
 ---
@@ -29,3 +29,17 @@ published: true
 ![ZAKOZAKO](./english_zakozako.jpg)
 ↑高専の英語のテストで死んだときのやつです、、、ただこれに対し「え、お前帰国子女じゃないん！？wwwwwww」って言ってくるやつに言いたい。**「お前らはいつも会話する時に文法を意識しているか？俺は意識していない」**と。なので帰国子女でも英語はできないんです大目に見てください(;_;)
 
+# My hobby
+私の趣味についても軽く触れようかと思います。まぁここに関しては別で記事に起こそうかと思ってるんすけどね。
+
+えーと、まず僕は音楽を聞くことと漫画を読むことが好きです。邦ロックをよく聞きます。最推しは[ONE OK ROCK](https://www.oneokrock.com)で次に推してるバンドは[AliA](http://www.alialive.jp)です！どっちも名曲神曲ばかりで聞いてて幸せになれます。
+
+次によく読む漫画なんですけど、めっちゃ[東京喰種](https://youngjump.jp/tokyoghoul/)と[とあるシリーズ](https://toaru-project.com)がめっちゃ好きです。ぜひ読んでみてください！
+
+最後に僕の最推しのVtuberを紹介して書くのをやめようかと思います
+
+**[天 宮 こ こ ろ](https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w)**をすこりましょう。めちゃくちゃ可愛いです。
+![Maji de kawaii](./amamya.png)
+どう？めっちゃかわいいですよね、、、
+
+まぁ趣味についてはまたの機会に書きます、、、
