@@ -4,7 +4,7 @@ cover: './hajimete.png'
 title: 'Hi,there!'
 description: 'はじめてのブログ(テストも兼ねて)'
 date: '2021-03-20'
-tags: [test]
+tags: ["Helo,World!"]
 published: true
 ---
 
