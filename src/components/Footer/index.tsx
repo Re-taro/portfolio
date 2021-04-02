@@ -23,7 +23,7 @@ const Footer: React.FC = () => (
           Twitter
         </Styled.Link>
         <Styled.Link 
-          href="https:/www.instagram.com/10969_rintaro/" 
+          href="https://www.instagram.com/10969_rintaro/" 
           rel="noreferrer noopener" 
           target="_blank"
         >
