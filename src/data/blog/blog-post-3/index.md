@@ -1,14 +1,14 @@
 ---
 category: 'blog'
 cover: './amamya.png'
-title: 'AMT(天宮マジ天使)'
+title: 'あまみやかわいい'
 description: 'わがはいの推しを書いています'
 date: '2021-04-01'
-tags: ['推し事,Vtuber']
+tags: [推し事,Vtuber]
 published: true
 ---
 
-誰しも人生で一人は推しいるよね？もちろん私もいるぞい！！
+誰しも人生で一人は推しいるよね？もちろん僕もいるぞい！！
 
 ![My 推し](./amamya.png)
 
